@@ -6,7 +6,7 @@
 
     HOW TO INSTALL?
     To get this criteria working with Elite Observatory:
-        - Go to https://github.com/poeticbulldozer/CCFE/releases/latest
+        - Go to <https://github.com/poeticbulldozer/CCFE/releases/latest>
 		- Download the file called "Custom.Criteria.For.Everyone.lua" and save it somewhere on your hard drive.
         - Open Elite Observatory.
         - Right click on the "Explorer" tab and then on "Explorer Settings".
